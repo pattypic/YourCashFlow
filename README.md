@@ -10,13 +10,13 @@ YourCashFlow offers general financial information based on your income or expens
 
 
 # Demo
-###Launch Screen 
+#### Launch Screen 
 
 
 <img width="360" alt="Loeading" src="https://github.com/pattypic/YourCashFlow/assets/124921178/872027c9-a0c9-45eb-b4f5-e1af574a9882">
 
 
-###On boarding
+### On boarding
 
 
 <img width="291" alt="Screenshot 2024-01-11 at 11 50 11 PM" src="https://github.com/pattypic/YourCashFlow/assets/124921178/75ce88b2-937a-4c4f-a9f0-0287bb07ccce">
