@@ -1,5 +1,5 @@
 # YourCashFlow
-![Untitled design (3)](https://github.com/pattypic/YourCashFlow/assets/124921178/794c1981-49eb-4e3f-be36-abe551ef09ea)
+![Untitled design (3)](https://github.com/pattypic/YourCashFlow/assets/124921178/762a9f7b-82a0-4f75-ab83-0b59c1a9da5e)
 YourCashFlow offers general financial information based on your income or expenses. Providing a user-friendly experience.
 
 # Table of Contents
