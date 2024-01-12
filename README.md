@@ -1,5 +1,6 @@
 # YourCashFlow
 ![Untitled design (3)](https://github.com/pattypic/YourCashFlow/assets/124921178/762a9f7b-82a0-4f75-ab83-0b59c1a9da5e)
+
 (Version 1.0)
 
 YourCashFlow offers a simplified way to track your income and expenses allowing you to stay on top of your finances. 
@@ -17,7 +18,7 @@ YourCashFlow offers a simplified way to track your income and expenses allowing 
 The goal of this app is twofold: firstly, to enhance my proficiency in SwiftUI, and secondly, to bolster my skills in implementing the MVVM architecture. "YourCashFlow," is designed to assist users in monitoring their finances, employing models that show the financial behaviors characteristic of different economic classes. These models draw inspiration from the principles laid out by Robert Kiyosaki. The app stands out for its simplistic approach, offering a practical resource for financial management while allowing users to compare their financial habits against those of different economic classes.
 (Note: Current implementation accounts for Income and expenses, there is still more to add.)
 
-# Files
+# Files (in progress...)
 
 # Demo
 ### Launch Screen 
